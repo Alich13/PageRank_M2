@@ -28,7 +28,7 @@ Les diffèrents étapes que nous allons réaliser sont représentés comme suit:
 
 * Implémentation de l'algorithme (simplifé) 
 
-* Implémentation de l'algorithme (Version optimisé) sur des données réeles
+* Implémentation de l'algorithme (Version optimisée) sur des données réeles
 
 
 
