@@ -32,7 +32,8 @@ Les diffèrents étapes que nous allons réaliser sont représentés comme suit:
 
 * Implémentation de l'algorithme (Version optimisée) sur des données réeles
 
-
+# Notebook
+les analyses sont disponible dans le notebook `src/Rendu du projet de l'UE Compléments de Mathèmatique pour la Bioinformatique.ipynb`
 
 # Implémentation de l'algorithme (Version optimisée) sur des données réeles
 
