@@ -18,7 +18,7 @@
 
 Dans la première partie de ce travail on implémentera l'algorithme de Page Rank sur des données artificielles : une matrice de taille 6x6 qui représente 6 sites web qu'on nommera, par example, (*Facebook, YouTube, LinkedIn, Google, Twitter, Wikipédia*), afin de disséquer l'algorithme en plusieurs étapes et jouer avec les diffèrents paramètres. 
 
-Alors que dans la seconde partie , on a developpé un script un peu plus optimisé qu'on appliquera sur des données réels .
+Alors que dans la seconde partie , on a developpé un script un peu plus optimisé qu'on appliquera sur des données réeles .
 
 **Objectif:**
 
