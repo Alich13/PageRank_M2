@@ -32,7 +32,7 @@ Les diffèrents étapes que nous allons réaliser sont représentés comme suit:
 
 
 
-# Implémentation de l'algorithme (Version optimisé) sur des données réeles
+# Implémentation de l'algorithme (Version optimisée) sur des données réeles
 
 ## Data ##
 The input file `data/routes.csv` contains 59036 routes between 3209 airports on 531 airlines spanning the globe from http://www.openflights.org. The file contains two data fields: 3 letter IATA code for an origin airport and for a destination airport. Routes are directional: if an airline operates services from A to B and from B to A, both A - B and B - A are listed separately.
