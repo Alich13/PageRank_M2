@@ -16,7 +16,7 @@
 ----------
 
 
-Dans ce présent travail on va implémenter l'algorithme sur des données artificielles : une matrice de taille 6x6 qui représente 6 sites web qu'on nommera, par example, (*Facebook, YouTube, LinkedIn, Google, Twitter, Wikipédia*), afin de disséquer l'algorithme en plusieurs étapes et jouer avec les diffèrents paramètres. 
+Dans la premiere partie de ce travail on va implémenter l'algorithme sur des données artificielles : une matrice de taille 6x6 qui représente 6 sites web qu'on nommera, par example, (*Facebook, YouTube, LinkedIn, Google, Twitter, Wikipédia*), afin de disséquer l'algorithme en plusieurs étapes et jouer avec les diffèrents paramètres. 
 
 **Objectif:**
 
